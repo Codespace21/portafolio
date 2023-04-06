@@ -1,6 +1,8 @@
 {
   "info_basico": {
-    "nombre": "Johns Rico",
-    "titulo": "Desarrollador Fullstack (PERN)"
+    "nombre": "JHONS RICO",
+    "titulo": "Desarrollador Fullstack (PERN)",
+    "descripcion_1": "Soy Ingeniero de sistemas apasionado e interesado por la tecnologia y el espacio, enfocado y con experiencia en la programación del lado Frontend y Backend, asi mismo todo lo relacionado con el manejo de BD y Analisis de datos.",
+    "descripcion_2": "Me encuentro en constante aprendizaje autonomo para crear y brindar productos, servicios  y/o soluciones eficientes y eficaces."
   }
 }

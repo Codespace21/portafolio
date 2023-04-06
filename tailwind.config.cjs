@@ -6,9 +6,12 @@ module.exports = {
   ],
   theme: {
     extend: {
+      screens: {
+        'xs': '280px'
+      },
       colors: {
         'transparent': 'transparent',
-        'space': '#070A19',
+        'space': '#080D13',
         'white-opacy': 'rgba(255, 255, 255, 0.1)'
       },
       fontFamily: {

@@ -1,21 +1,9 @@
 [
   {
-    "skill": "Javascript",
-    "nivel": "medio",
-    "icono": "https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png",
-    "colorBg": "#F0DB4F"
-  },
-  {
-    "skill": "Typescript",
-    "nivel": "medio",
-    "icono": "https://yonisesquivel.github.io/assets/images/ts.png",
-    "colorBg": "#0073C0"
-  },
-  {
     "skill": "PostrgreSQL",
     "nivel": "medio",
     "icono": "https://icon-library.com/images/postgres-icon/postgres-icon-7.jpg",
-    "colorBg": "white"
+    "colorBg": "#2E2E2E"
   },
   {
     "skill": "ExpressJs",
@@ -26,13 +14,13 @@
   {
     "skill": "React",
     "nivel": "medio",
-    "icono": "https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png",
-    "colorBg": "#222222"
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+    "colorBg": "#2E2E2E"
   },
   {
     "skill": "NodeJs",
     "nivel": "medio",
-    "icono": "https://aventislearning.com/wp-content/uploads/2020/06/Node.js.png",
-    "colorBg": "white"
+    "icono": "https://www.chawtechsolutions.com/wp-content/uploads/2022/11/node-js.png",
+    "colorBg": "#2E2E2E"
   }
 ]
