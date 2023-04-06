@@ -11,7 +11,7 @@ export default defineConfig({
     postcss,
   },
   plugins: [react()],
-  base: "/portafolio/",
+  base: "https://Codespace21.github.io/portafolio/",
   resolve: {},
   build: {
     commonjsOptions: {
