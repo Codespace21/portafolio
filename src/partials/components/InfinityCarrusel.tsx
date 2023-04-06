@@ -2,7 +2,7 @@
 import skill from "../../data/skills.json"
 
 //Partials
-import Hexa from "../figures/Hexa"
+import Hexa from "./figures/Hexa"
 
 export default function InfiniteCarrusel() {
 
