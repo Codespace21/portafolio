@@ -1,0 +1,52 @@
+{
+  "frontend": [
+    {
+      "name": "React Js",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+    },
+    {
+      "name": "Next Js",
+      "icono": "https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"
+    },
+    {
+      "name": "Typescript",
+      "icono": "https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo.png"
+    },
+    {
+      "name": "Tailwind",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"
+    },
+    {
+      "name": "Zustand",
+      "icono": "https://tsh.io/wp-content/uploads/2023/02/zustand-logo.png"
+    }
+  ],
+  "backend": [
+    {
+      "name": "Node Js",
+      "icono": "https://www.chawtechsolutions.com/wp-content/uploads/2022/11/node-js.png"
+    },
+    {
+      "name": "Express Js",
+      "icono": "https://vectorified.com/images/express-js-icon-20.png"
+    },
+    {
+      "name": "Sequelize",
+      "icono": "https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png"
+    }
+  ],
+  "data": [
+    {
+      "name": "SQL Server",
+      "icono": "https://silk.us/wp-content/uploads/2021/03/sql-server-logo-white.png"
+    },
+    {
+      "name": "PostrgreSQL",
+      "icono": "https://icon-library.com/images/postgres-icon/postgres-icon-7.jpg"
+    },
+    {
+      "name": "Strapi",
+      "icono": "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_00b8806bcda4bcf6c839d3cb95334676/strapi.png"
+    }
+  ]
+}

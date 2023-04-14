@@ -6,7 +6,7 @@ import avatar from "../../assets/profile-pic (2).png";
 
 export default function Perfil() {
   return (
-    <div className="flex justify-center items-center h-[3rem] w-full text-white">
+    <div className="flex justify-center items-center w-full text-white py-4">
       <div className="flex w-full justify-center items-center">
         <div className="block md:py-4 xs:px-10 md:px-20 lg:px-20 xl:px-40">
           <div className="relative">
