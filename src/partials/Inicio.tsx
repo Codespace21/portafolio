@@ -15,7 +15,7 @@ export default function Inicio() {
           <Header />
         </div>
         {/* Perfil */}
-        <div className="xs:block lg:flex justify-center items-center xs:h-auto">
+        <div className="xs:block lg:flex justify-center items-center xs:h-auto lg:h-[88vh]">
           <div className="xs:w-full lg:w-1/2 h-auto flex justify-center items-center">
             <Perfil />
           </div>

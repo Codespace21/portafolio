@@ -4,6 +4,7 @@ import info_skill from "../data/skills_category.json"
 //Partials
 import Star from "./components/figures/Star";
 import Skill from "./components/Skill";
+import Skills_Radar from "./components/charts/Skills_Radar";
 
 export default function Skills() {
   return (
@@ -18,8 +19,8 @@ export default function Skills() {
           </div>
 
           {/* Skills Blandas*/}
-          <div className="xs:w-full lg:w-1/2 h-auto flex justify-center items-center xs:px-8 lg:px-0">
-            2
+          <div className="xs:w-full lg:w-1/2 h-auto flex justify-center items-center">
+            <Skills_Radar />
           </div>
         </div>
       </div>
